@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="bottom|center_horizontal"
+    android:background="@drawable/backrepeat"
+    >
+    <ImageView android:id="@+id/imageView1" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/logo"></ImageView>
+<Button
+	android:id="@+id/btn_info"
+	android:text="@string/title_info"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    />
+
+<Button
+	android:id="@+id/btn_pokkerhand"
+	android:text="@string/btn_pokkerhand"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    />
+<Button
+	android:id="@+id/btn_indian"
+	android:text="@string/btn_indian"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    />
+</LinearLayout>

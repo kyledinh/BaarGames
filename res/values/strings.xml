@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello Baar Games</string>
+	<string name="app_name">Baar Games</string>
+	<string name="title_info">Info</string>
+	<string name="popup_info">Baar Games written by Kyle Dinh v0.1</string>
+	<string name="btn_pokkerhand">Deal a Pokker Hand!</string>
+	<string name="btn_indian">Indian Pokker!</string>
+</resources>
