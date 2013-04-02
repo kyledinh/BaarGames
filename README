@@ -1,1 +1,4 @@
-android application of silly card games you can play at a bar
+android application that contains 3 Activities: 
+a set of 5 dice with roll and hold function; 
+a 5 card poker hand dealer and 
+Indian Poker that displays a random card.
